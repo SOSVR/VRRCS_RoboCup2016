@@ -1,11 +1,7 @@
 ###Creating a simple launch file
 In this package, we have a p2os robot that can be spwaned by launching `p2os_urdf/pioneer3at.gazebo.launch` using this command:
 ```
-	roslaunch p2os_urdf pioneer3at.gazebo.launch
-```
-For using this command in the terminal, we should first run the ros core:
-```
-roscore
+roslaunch p2os_urdf pioneer3at.gazebo.launch
 ```
 
 ####Note
