@@ -10,7 +10,7 @@ in the `whiteIpList` array.
 
 
 ###Complete Code
-You can view the complete plugin code [here](https://github.com/taherahmadi/VRRCS_RobotCup2016/gazebo_white_ip/code.py).
+You can view the complete plugin code [here](https://github.com/SOSVR/VRRCS_RoboCup2016/blob/master/gazebo-white-ip/code.py).
 
 ###Using IPTables
 Another option is to use IPTables of the OS.
